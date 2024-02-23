@@ -7,4 +7,14 @@ The implemented dashboards have been designed for departmental visualization and
 - Supply chain
 - Quality
 - Sales
-- Purchase  
+- Purchase
+
+# Methods of analysis
+There are several analytical methods available to pinpoint issues within a company and devise effective solutions.
+
+The most commonly utilized methods include:
+- Balanced Scorecard
+- Pareto Analysis
+- ABC Analysis (Activity-Based Costing)
+- Process Mapping
+  
